@@ -1,6 +1,6 @@
 # SYP Projekt
 
-Mitwirkende\
+**Mitwirkende\**
 Thomas Straßhofer\
 Sandor Debnar\
 Emir Bajramovic
