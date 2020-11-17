@@ -1,5 +1,5 @@
 # SYP Projekt
-##Tierverwaltungsprogram
+## Tierverwaltungsprogram
 
 **Mitwirkende**\
 Thomas Straßhofer\
