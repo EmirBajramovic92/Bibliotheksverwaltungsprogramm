@@ -13,7 +13,7 @@ https://www.projektmagazin.de/projektauftrag
 \
 Sandor
 
-Wenn jemand das Dashboard weiterentwickeln will, ist hier ist eine Quelle dafür:
+Wenn jemand das Dashboard weiterentwickeln will, ist hier eine Quelle dafür:
 https://www.youtube.com/watch?v=5qtSioTE2wY&t=445s
 \
 Sandor
